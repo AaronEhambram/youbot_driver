@@ -1,7 +1,7 @@
 /****************************************************************
  *
  * Copyright (c) 2011
- * All rights reserved.
+ * All rights reserved. 
  *
  * Hochschule Bonn-Rhein-Sieg
  * University of Applied Sciences
